@@ -29,7 +29,8 @@
 
 
 <h2 align="center">🚀 GitHub Analytics & Tecnologías Conocidas</h2>
-<p align="center">
+
+<div align="center">
   <table>
     <tr>
       <td>
@@ -43,8 +44,10 @@
         </a>
       </td>
     </tr>
-    <tr>
-   <p align="center">
+  </table>
+</div>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,flutter" />
     <br>
@@ -55,6 +58,6 @@
     <img src="https://skillicons.dev/icons?i=linux,ai,ps" />
   </a>
 </p>
-</p>
+
 
 </p>
