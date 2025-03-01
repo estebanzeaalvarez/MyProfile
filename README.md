@@ -28,7 +28,7 @@
 </p>
 
 
-## 🚀 GitHub Analytics & Tecnologías Conocidas
+<h2 align="center">🚀 GitHub Analytics & Tecnologías Conocidas</h2>
 <p align="center">
   <table>
     <tr>
