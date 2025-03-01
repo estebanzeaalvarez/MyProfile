@@ -28,31 +28,33 @@
 </p>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
+## 🚀 GitHub Analytics & Tecnologías Conocidas
 <p align="center">
-<a href="https://github.com/estebanzeaalvarez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estebanzeaalvarez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estebanzeaalvarez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
-
-<!-- Tech stack icons -->
-<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/estebanzeaalvarez">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estebanzeaalvarez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/estebanzeaalvarez">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estebanzeaalvarez&layout=compact&langs_count=8&theme=algolia"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,flutter" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gtk,git,github,docker,materialui,postman,eclipse,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,dotnet,html,css,js,nodejs,sqlite" />
     <br>
-    <img src="https://skillicons.dev/icons?i=bash,linux,ai,ps&perline=4" />
+    <img src="https://skillicons.dev/icons?i=firebase,git,github,docker,postman,materialui,vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux,ai,ps" />
   </a>
 </p>
-
-<br>
-<div id="proyectos">
-
+</p>
 
 </p>
