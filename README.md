@@ -38,4 +38,21 @@
 </p>
 
 
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
+<!-- Tech stack icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase&perline=8" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gtk,git,github,docker,materialui,postman,eclipse,vscode&perline=8" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=bash,linux,ai,ps&perline=4" />
+  </a>
+</p>
+
+<br>
+<div id="proyectos">
+
+
 </p>
